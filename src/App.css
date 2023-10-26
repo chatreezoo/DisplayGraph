@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.header{
+  background-position: center;
+  background-image: url(/public/logo.jpg);
+  height: 320px;
+  width: 100%;
+  
+}
